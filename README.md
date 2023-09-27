@@ -1,2 +1,7 @@
-# Disaster-Predictor
-Developed a responsive website using machine learning models with Flask, HTML, CSS and javascript. Accomplishments • Currently among the top 3 in academic performance of 2023 IT Batch BIT Sindri, with a GPA of 8.58.
+# Disaster-Predictor (On-going Project)
+Developed a responsive website using machine learning models with Flask, HTML, CSS and javascript.
+# Project Overview:
+* An application underwhich all rescueagencies are registeredand which can display the location of other rescue relief agencie sduring natural/ manmade calamities.
+
+# Idea Approach:
+* Our solution offers two portals, one for rescue agencies and one for users, ensuring data privacy and scalability.
